@@ -19,8 +19,6 @@
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
-
-  <img alt="Codacy grade" src="/codacy/grade/e7r7i7c/bethehero">
 </p>
 
 <!-- <p align="center">
