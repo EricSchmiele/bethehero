@@ -58,7 +58,7 @@ To be added ...
 
 ## Testing
 
-All tests can be run using <strong>supertest</strong>: `npm test` 
+All tests can be run using <strong>supertest</strong> with the following line in terminal: `npm test` 
 
 So far there are two tests:
 
