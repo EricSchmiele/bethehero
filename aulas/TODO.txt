@@ -1,5 +1,0 @@
-padroes de codigo: ESLint, Prettier
-
-autenticacao JWT
-
-Styled Components
