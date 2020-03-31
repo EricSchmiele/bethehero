@@ -6,19 +6,21 @@
   OmniStack Week 11.0
 </h2>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/e7r7i7c/omnistack11">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/e7r7i7c/bethehero">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/e7r7i7c/omnistack11">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/e7r7i7c/bethehero">
   
-  <a href="https://github.com/e7r7i7c/omnistack11/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/e7r7i7c/omnistack11">
+  <a href="https://github.com/e7r7i7c/bethehero/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/e7r7i7c/bethehero">
   </a>
 
-  <a href="https://github.com/e7r7i7c/omnistack11/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/e7r7i7c/omnistack11">
+  <a href="https://github.com/e7r7i7c/bethehero/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/e7r7i7c/bethehero">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+
+  <img alt="Codacy grade" src="/codacy/grade/e7r7i7c/bethehero">
 </p>
 
 <!-- <p align="center">
