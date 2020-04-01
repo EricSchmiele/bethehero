@@ -27,7 +27,8 @@
 
 <p align="center">
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#installing-the-application">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#running-the-application">Running</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -45,16 +46,23 @@
 
 A project developed during the OmniStack Week 11.0: a platform to help NGO's present their current causes which need funding and also ease the contribution from interested parties.
 
-## Getting started
+## Installing the application
 
-After dowloading or branching you should install the following prerequisites:
+In order to install the application dependencies, after dowloading or branching you should run the terminal code `npm install` in the following folders:
 
-* To be added ...
-* ...
+* <u>br.com.bethehero/backend/</u>
+* <u>br.com.bethehero/frontend/</u>
+* <u>br.com.bethehero/mobile/</u>
 
-### Installing
+## Running the application
 
-To be added ...
+On separate terminal tabs, run the code `npm start` on the folders:
+
+* <u>br.com.bethehero/backend/</u>
+* <u>br.com.bethehero/frontend/</u>
+* <u>br.com.bethehero/mobile/</u>
+
+Aditionally, in order to run the mobile application, install the Expo app on your smart phone from your standard app store and read the QR code that will be generated after running the terminal code in the <u>br.com.bethehero/mobile/</u> folder.
 
 ## Testing
 
