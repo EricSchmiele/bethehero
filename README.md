@@ -34,9 +34,9 @@
 
 <br>
 
-<!-- <p align="center">
-  <img alt="Frontend" src=".github/be-the-hero-desktop.gif" width="50%">
-</p> -->
+<p align="center">
+  <img alt="Frontend" src="assets/screen.png" width="50%">
+</p>
 
 
 ## About
