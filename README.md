@@ -21,16 +21,13 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 </p>
 
-<!-- <p align="center">
-    <a href="https://insomnia.rest/run/?label=Be%20The%20Hero%20API&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fvsalbuq%2Fbe-the-hero%2Fmaster%2FInsomnia_2020-03-25.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
-</p> -->
-
 <p align="center">
   <a href="#about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#installing-the-application">Installing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#running-the-application">Running</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#testing">Testing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#built-with">Built with</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <!--<a href="#layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;-->
   <a href="#contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#license">License</a>
 </p>
@@ -81,11 +78,13 @@ Back end:
 * [React Native](https://facebook.github.io/react-native/)
 * [Expo](https://expo.io/)
 
-<!-- ## Layout
+<!--
+## Layout
 
  You can download the layout (`.sketch`) using [this link](.github/DevRadar.sketch).
 
-To open it in any SO, use [Figma](https://figma.com). -->
+To open it in any SO, use [Figma](https://figma.com).
+-->
 
 ## Contributing
 
