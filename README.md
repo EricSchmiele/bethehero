@@ -62,7 +62,7 @@ On separate terminal tabs, run the code `npm start` on the folders:
 * <u>br.com.bethehero/frontend/</u>
 * <u>br.com.bethehero/mobile/</u>
 
-Aditionally, in order to run the mobile application, install the Expo app on your smart phone from your standard app store and read the QR code that will be generated after running the terminal code in the <u>br.com.bethehero/mobile/</u> folder.
+Aditionally, in order to run the mobile application, install the <strong>Expo</strong> app on your smart phone from your standard app store and read the QR code that will be generated after running the terminal code in the <u>br.com.bethehero/mobile/</u> folder.
 
 ## Testing
 
